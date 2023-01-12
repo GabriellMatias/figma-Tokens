@@ -35,7 +35,7 @@ This is a project made during the curse Figma for dev, provider by rocketseat. h
   
   <img style="margin-top:10px; margin-left:220px;" src="https://user-images.githubusercontent.com/80908772/212200776-f869b314-0b4b-4163-aeea-687ff1756ea3.png"/>
   <hr/>
-  <img style="margin-top:10px; margin-left:100px;" src="https://user-images.githubusercontent.com/80908772/212200777-633944db-300f-44bf-bf12-982fab54cb5d.png"/>
+  <img style="margin-top:10px;" src="https://user-images.githubusercontent.com/80908772/212200777-633944db-300f-44bf-bf12-982fab54cb5d.png"/>
   <hr/>
   <img style="margin-top:10px;" src="https://user-images.githubusercontent.com/80908772/212200775-b2670aa8-fbba-45f3-b36e-07d2025184c5.png"/>
   <hr/>
